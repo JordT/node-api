@@ -1,0 +1,14 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "My first api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jordan Thomson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
